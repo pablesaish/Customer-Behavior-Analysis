@@ -144,6 +144,6 @@ Open `dashboard/dashboard.pbix` using Power BI Desktop to explore the interactiv
 - Gamma-generated project presentation
 
 ## Author
-**[Your Name]**
+**Saish Pable**
 
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[LinkedIn](https://linkedin.com/in/pablesaish) | [GitHub](https://github.com/pablesaish)
