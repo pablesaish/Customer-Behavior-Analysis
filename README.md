@@ -61,7 +61,7 @@ The Power BI dashboard provides an interactive overview of the dataset, highligh
 
 > Add your Power BI dashboard screenshot here.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard)
 
 ## Results & Insights
 The analysis helped uncover meaningful patterns and trends within the dataset.
