@@ -146,4 +146,4 @@ Open `dashboard/dashboard.pbix` using Power BI Desktop to explore the interactiv
 ## Author
 **Saish Pable**
 
-[LinkedIn](https://linkedin.com/in/pablesaish) | [GitHub](https://github.com/pablesaish)
+[LinkedIn](https://linkedin.com/in/saishpable) | [GitHub](https://github.com/pablesaish)
