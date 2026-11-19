@@ -6,7 +6,7 @@ This project demonstrates an end-to-end data analytics workflow, transforming ra
 The objective is to identify trends, patterns, key performance indicators (KPIs), and actionable insights that support data-driven decision-making.
 
 ## Dataset
-- **Source:** [Dataset Source]
+- **Source:** Github
 - **Format:** CSV / Excel
 - **Description:** The dataset contains information related to [briefly describe the dataset/domain].
 - **Data Processing:** Handled missing values, duplicates, inconsistencies, and formatting issues to improve data quality and reliability.
@@ -61,7 +61,7 @@ The Power BI dashboard provides an interactive overview of the dataset, highligh
 
 > Add your Power BI dashboard screenshot here.
 
-![Dashboard Preview](assets/dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ## Results & Insights
 The analysis helped uncover meaningful patterns and trends within the dataset.
